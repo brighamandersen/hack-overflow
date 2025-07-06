@@ -16,4 +16,4 @@ Big Idea Pitch Video: https://youtu.be/dnFgURXY3UM
 
 ![Demo Screenshot 5](./README-demo-screenshot5.webp)
 
-For full-size screenshots and for descriptions of the different pages see the [Complete HackOverflow PDF](./hack-overflow.pdf)
+For full-size screenshots and for descriptions of the different pages see the [Complete HackOverflow PDF](./hack-overflow.pdf).
